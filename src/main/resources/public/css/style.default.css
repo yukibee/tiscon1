@@ -11,6 +11,9 @@ button i.fa {
 .clickable {
   cursor: pointer;
 }
+.col-sm-4 {
+    cursor: default;
+    }
 p.lead {
   font-weight: 300;
 }
